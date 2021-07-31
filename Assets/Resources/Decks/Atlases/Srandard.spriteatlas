@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Srandard
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a62120f2ad9c93f46919a9073d6e5e0e, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0f65b09065b70f447a1964cf156f2013, type: 3}
+  - {fileID: 21300000, guid: 98691141edd9fad4eb3041dd7a8fa0c3, type: 3}
+  - {fileID: 21300000, guid: 254f4671663d8e84e83895ee168c5df1, type: 3}
+  - {fileID: 21300000, guid: a85b6481dc2cf244b9743b0d984ec47d, type: 3}
+  - {fileID: 21300000, guid: 443810d1316cc3640920a69644029dea, type: 3}
+  - {fileID: 21300000, guid: 74108de1815c24642bec2b8b12fedcca, type: 3}
+  - {fileID: 21300000, guid: b0954832caf6e68469b039eb2b933d1b, type: 3}
+  - {fileID: 21300000, guid: 390b5a92c2d627a4d9a868e9ef7be07a, type: 3}
+  - {fileID: 21300000, guid: 06cc7e9297e9450469447836f1d35825, type: 3}
+  - {fileID: 21300000, guid: 4e2e9bb21205a62489ab858e7a521931, type: 3}
+  - {fileID: 21300000, guid: cd3100c3c63e2a941a6a79d5dcf7b66d, type: 3}
+  - {fileID: 21300000, guid: aace291547e494e48aa9c0c3c87765c2, type: 3}
+  - {fileID: 21300000, guid: 89d10945ba3c85a48bfc36b469a7d6c1, type: 3}
+  - {fileID: 21300000, guid: e399f785ba90b0940b4da30564526212, type: 3}
+  - {fileID: 21300000, guid: a6dffeb5d14b90e4995235cf606ba340, type: 3}
+  - {fileID: 21300000, guid: f52f9fc51d9ac1c4896a6d6eabc68a2e, type: 3}
+  - {fileID: 21300000, guid: c60b4f26e198ab944826cc39be8b7b7c, type: 3}
+  - {fileID: 21300000, guid: 25dd46a63051b5848ba4d2e392887c64, type: 3}
+  - {fileID: 21300000, guid: 119323670df4a0a4e8815379eb5cff96, type: 3}
+  - {fileID: 21300000, guid: b2ccf9b7cdba6ae41bc97aeff299c597, type: 3}
+  - {fileID: 21300000, guid: a80ef0f712cb3e84ca084a6aee0d6910, type: 3}
+  - {fileID: 21300000, guid: 83624af7c402cfd4b83784a9ed375a00, type: 3}
+  - {fileID: 21300000, guid: d9d457b8d6f0ca742be38b92a4cc5d9f, type: 3}
+  - {fileID: 21300000, guid: 1e6218f8782fb83489b3349b9d39453a, type: 3}
+  - {fileID: 21300000, guid: 3affddf8e839bd744b893df58a6ce9e9, type: 3}
+  - {fileID: 21300000, guid: 606f4349816a32744b174216ed45d1fe, type: 3}
+  - {fileID: 21300000, guid: 00e5c649e89d816499a62595bff58f95, type: 3}
+  - {fileID: 21300000, guid: 4d019f99c7d544b418001dfef3bb8b9e, type: 3}
+  - {fileID: 21300000, guid: 5b0e53b92ed1a4446abe8f28ceee89cb, type: 3}
+  - {fileID: 21300000, guid: a4740fd92a920fc4fb3b9a97abab4e40, type: 3}
+  - {fileID: 21300000, guid: fba8311ae93efd945bdc5b1b500e64de, type: 3}
+  - {fileID: 21300000, guid: 453b892a8c167e1488aee349856a7bec, type: 3}
+  - {fileID: 21300000, guid: 5747347a1a90c6a46a0726efcb20de13, type: 3}
+  - {fileID: 21300000, guid: 0c6c2d8ab6fc32743b4d3b83df560386, type: 3}
+  - {fileID: 21300000, guid: a78cb2bb46f8fac4b83d1a29317fdd1b, type: 3}
+  - {fileID: 21300000, guid: 412a2adb190ae8c40a039aa2746bd3e9, type: 3}
+  - {fileID: 21300000, guid: 22ab701c9fa611444aa16f0cc68ecf93, type: 3}
+  - {fileID: 21300000, guid: a1b1fa1c822b28b4a8109967fdc43a8a, type: 3}
+  - {fileID: 21300000, guid: 3ce8855cc79f6bd43ba81e15d49af97b, type: 3}
+  - {fileID: 21300000, guid: 24637fcc11356454f952648e791ff16d, type: 3}
+  - {fileID: 21300000, guid: 55c3183d2a74aa6418d07083bc3fb3d2, type: 3}
+  - {fileID: 21300000, guid: eaf7ee4d82a720c4eafe3c6a4c3cb0d9, type: 3}
+  - {fileID: 21300000, guid: 25bd0ebd3e8d772449777315a6e8ba68, type: 3}
+  - {fileID: 21300000, guid: 0092967ed99e38748b61e743ebd0bc2d, type: 3}
+  - {fileID: 21300000, guid: cf300c7e75dad6047ae5803fed3488e0, type: 3}
+  - {fileID: 21300000, guid: 43d84dae7e44c794a988723965b69223, type: 3}
+  - {fileID: 21300000, guid: 3eddb98f84595ab46b0a42f41aa6b673, type: 3}
+  - {fileID: 21300000, guid: b0e2de8f220120943aa18e83cef30df7, type: 3}
+  - {fileID: 21300000, guid: 234e46af6b0c5c249ac6671f11e5ac76, type: 3}
+  - {fileID: 21300000, guid: 31f20aefce7fb8c48a37fa04f9866f1d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 21
+  - 15
+  - 10
+  - 48
+  - 39
+  - 47
+  - 46
+  - 31
+  - 49
+  - 3
+  - 37
+  - 42
+  - 14
+  - 41
+  - 29
+  - 7
+  - 30
+  - 8
+  - 18
+  - 45
+  - 22
+  - 23
+  - 11
+  - 27
+  - 35
+  - 33
+  - 24
+  - 40
+  - 12
+  - 5
+  - 36
+  - 6
+  - 17
+  - 44
+  - 9
+  - 28
+  - 20
+  - 19
+  - 1
+  - 16
+  - 50
+  - 43
+  - 38
+  - 34
+  - 26
+  - 32
+  - 4
+  - 2
+  - 13
+  - 25
+  m_Tag: Srandard
+  m_IsVariant: 0
